@@ -26,10 +26,6 @@ pip install pytube pillow
 
 ![Application Screenshot](screenshot.png)
 
-## License
-
-This project is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
-
 ---
 
 **Note:** This application is developed for educational purposes only, and it's important to comply with YouTube's terms of service. Any copyright infringement is the responsibility of the user.
